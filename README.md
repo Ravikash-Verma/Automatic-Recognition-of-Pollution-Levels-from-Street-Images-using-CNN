@@ -4,9 +4,8 @@ Objective: Develop a CNN model to classify street images based on their pollutio
 
 Tech Stack: Python, TensorFlow, Keras, NumPy, Matplotlib, ImageDataGenerator, Convolutional Neural Networks (CNN), Data Augmentation, Max Pooling, Early Stopping, Image Preprocessing, Model Evaluation, Jupyter Notebook
 
-•	Developed a CNN using TensorFlow and Keras with convolutional layers, max-pooling, dropout, and fully connected layers to classify street images into six pollution levels, achieving 89.8% validation and 89.79% test accuracy with data augmentation for enhanced generalization.
-
-•	Optimized hyperparameters such as filters, nodes, loss function, activation, epochs, etc., leveraging early stopping to prevent overfitting and visualized training trends using Matplotlib to ensure robust model performance.
-
-Impact: Enabled accurate and automated pollution level classification from street images, supporting environmental monitoring and decision-making.
-
+Developed a CNN model using TensorFlow and Keras to classify street images into different pollution levels, achieving 91.66% 
+accuracy
+Optimized hyperparameters and used early stopping to prevent overfitting, visualizing training trends with Matplotlib to 
+ensure robust model performance
+Impact: Enabled accurate and automated pollution level classification, supporting environmental monitoring and decision-making
